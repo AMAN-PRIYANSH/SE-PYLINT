@@ -4,7 +4,8 @@ Student: Aman Priyansh (PES1UG24AM030)
 File: electricity_bill.py
 
 Scores: Pylint 5.44 -> 10.00, Bandit 4 issues -> 0, Flake8 4 issues -> 0.
-The program prints exactly the same output before and after (see reports/before/program_output.txt and reports/after/program_output.txt).
+The program prints exactly the same output before and after (four bills, highest bill M2, average 934.5, total 3738.0).
+The before and after tool reports are in the repository root (pylint_report_before.txt, pylint_report_after.txt, and so on).
 
 Line numbers refer to the ORIGINAL file.
 
